@@ -5,4 +5,4 @@ Your implementation should in the least do the following:
 
 Provide some basic statistics about the size of the equivalence classes and how much data is mapping to them. This sort of summary can be provided in a figure/plot.
 
-* Note: reads.fasta was too large to upload to this repository
+Note: reads.fasta was too large to upload to this repository
